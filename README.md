@@ -16,3 +16,5 @@ UITableView * tabelView = [[UITableView alloc] initWithFrame:CGRectZero style:(U
 点击视图外的任意位置都将dismiss，dismiss是会调用代理方法，你可以做你想做的操作，没错就是这么简单！
 希望大家喜欢。新手菜鸟一枚，望大神多多指教，日后会花时间将它日益壮大，实现更加强大的功能，让使用更简单，
 =最后向各位致敬！谢谢大家愿意看小弟写的东西。
+
+![image](https://raw.githubusercontent.com/BINDeveloper/BINPopView/master/PopView.gif)
