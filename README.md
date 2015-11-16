@@ -1,4 +1,8 @@
 # BINPopView
+
+![image](https://raw.githubusercontent.com/BINDeveloper/BINPopView/master/PopView.gif)
+
+
 一款类似新浪微博的popView，点击按钮后在你需要的位置弹出你想要的菜单、或者其他视图，最大的优点是，高度灵活，背景图片，contentView全部可以自定义。Demo中的三张图片如果需要使用，也要将图片添加到你的项目中。
 How To Use 
 
@@ -17,4 +21,4 @@ UITableView * tabelView = [[UITableView alloc] initWithFrame:CGRectZero style:(U
 希望大家喜欢。新手菜鸟一枚，望大神多多指教，日后会花时间将它日益壮大，实现更加强大的功能，让使用更简单，
 =最后向各位致敬！谢谢大家愿意看小弟写的东西。
 
-![image](https://raw.githubusercontent.com/BINDeveloper/BINPopView/master/PopView.gif)
+
